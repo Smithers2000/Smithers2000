@@ -22,14 +22,25 @@ I am a Computer Science & Cyber Security student at UCSD with a passionate backg
 A fully-featured, web-hosted SaaS business acting as an online game platform.
 * **Tech Stack:** HTML5, CSS3, JavaScript, Firebase (Authentication, Firestore), Cloud Storage, Cloud Computing.
 * **Key Features:** Event-driven GUI programming, user authentication, secure cloud data storage, and scalable hosting for interactive web games.
-* **[👉 View Repository](https://github.com/YOUR_USERNAME/YOUR_SaaS_REPO_LINK)** | **[👉 Live Demo](YOUR_LIVE_SaaS_LINK_IF_AVAILABLE)**
+* **[👉 View Repository](https://github.com/Smithers2000/indie-arcade-platform)** | <!--**[👉 Live Demo](YOUR_LIVE_SaaS_LINK_IF_AVAILABLE)**-->
 
 ### 🧾 Smart Receipt Auditor (Gemini 3 Global Hackathon)
 An innovative AI-driven application developed for the Gemini 3 Global Hackathon designed to optimize grocery management and reduce food waste.
 * **Tech Stack:** Python, Google AI Studio (Gemini API), Cloud Deployment.
 * **Key Features:** Built an architectural system that extracts data from grocery receipt images, audits inventory, and intelligently generates customized recipes based on available ingredients.
-* **[👉 View Repository](https://github.com/YOUR_USERNAME/YOUR_HACKATHON_REPO_LINK)**
+* **[👉 View Repository](https://github.com/Smithers2000/YOUR_HACKATHON_REPO_LINK)**
 
+### cats in the bag (CC Hackathon)
+An innovative AI-driven application developed for the communtity college Hackathon designed to entertain children with a cat based web game
+* **Tech Stack:** https, Javascript, node JS, Cloud Deployment.
+* **Key Features:** Built an friendly user interface to interact with a virtual pet.
+* **[👉 View Repository](https://github.com/Smithers2000/cats-in-the-bag)**
+
+### snap and sing (class: mobile dev project)
+An innovative application developed for the communtity college designed to entertain people.
+* **Tech Stack:** Kotlin, Android SDK, Jetpack Compose, MVVM Architecture, Room Database, MediaPlayer API, ActivityResult Contracts, Git / GitHub
+* **Key Features:** Built an friendly user interface to interact with a user to show the capabilities of MVVM arcitecture with permissions, intents and android features
+* **[👉 View Repository](https://github.com/CS134-3541-SP2026/labworkbook-Smithers2000/app/finalproject)**
 ---
 
 ## 🛠️ Technical Toolkit
