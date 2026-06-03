@@ -53,7 +53,7 @@ An innovative application developed for the communtity college designed to enter
 * **STEM & Computer Science Tutor** at MiraCosta College (Guiding peers in OOP, Java, C++, and Python debugging)
 * **Computer Science Club Member** (MiraCosta College) | Former IT Club Vice-Captain (Eduvos)
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/joshua-adam-smith-2025) | joshuaadamsmith2003@gmail.com
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/joshua-adam-smith-2o25) | joshuaadamsmith2003@gmail.com
 
 - 🔭 I’m currently working on websites and learning more about AI agentic tools
 - 👯 I’m looking to collaborate on any small business projects or hackathons
